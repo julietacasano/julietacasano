@@ -5,8 +5,7 @@
 <br>
 <br>
 
-<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hearts/Black%20Heart.png" alt="Corazón Negro" width="40" height="40" style="margin-right: 10px;">
-<h2 align="left" font-weight="bold">About me</h2>  
+<h2 align="left" font-weight="bold">🖤 About me</h2>  
 
 <br>
 
