@@ -1,18 +1,16 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:6a0dad&section=header&text=Julieta%20Casano&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Frontend%20|%20Ciberseguridad&descSize=20&descAlignY=75" />
 </div>
 
-<h3 align="center">
-  Hi, I'm Julieta Casano ✨
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<br>
+<br>
 
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hearts/Black%20Heart.png" alt="Corazón Negro" width="40" height="40" style="margin-right: 10px;">
 <h2 align="left" font-weight="bold">About me</h2>  
 
 <br>
 
-- 👩‍💻 Estudiante de Ingeniería en Sistemas en la UTN FRRe.
+- 🎓 Estudiante de Ingeniería en Sistemas en la UTN FRRe.
 - 🛡️ Interesada en Ciberseguridad y el análisis de vulnerabilidades.
 - 📚 Becaria de investigación trabajando en la intersección de la Educación y la Inteligencia Artificial.
 
