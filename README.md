@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<h2 align="left" font-weight="bold">🖤 About me</h2>  
+<h2 align="left" font-weight="bold">About me</h2>  
 
 <br>
 
@@ -43,6 +43,22 @@
         <a href="https://github.com/julietacasano/invitacionesbyju">🔒 Código Privado</a>
       </p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💍 Invitación de Casamiento - Flor & Fede</h3>
+      <p align="center">
+        Programación desde cero de una invitación digital interactiva y exclusiva para una pareja. Diseño responsivo y adaptado a medida.
+        <br />
+        <br />
+        <strong>Tech Stack:</strong> Next.js, Tailwind CSS, TypeScript.
+      </p>
+      <p align="center">
+        <a href="https://invitacion-floryfede.vercel.app">🚀 Ver Deploy</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      </td>
   </tr>
 </table>
 
