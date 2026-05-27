@@ -9,7 +9,7 @@
 
 <br>
 
-- 🎓 Estudiante de Ingeniería en Sistemas en la UTN FRRe.
+- 🎓 Estudiante de 4to año de Ingeniería en Sistemas de Información en la UTN FRRe.
 - 🛡️ Interesada en Ciberseguridad y el análisis de vulnerabilidades.
 - 📚 Becaria de investigación trabajando en la intersección de la Educación y la Inteligencia Artificial.
 
@@ -45,7 +45,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center">💍 Invitación de Casamiento - Flor & Fede</h3>
       <p align="center">
         Programación desde cero de una invitación digital interactiva y exclusiva para una pareja. Diseño responsivo y adaptado a medida.
@@ -57,8 +57,6 @@
         <a href="https://invitacion-floryfede.vercel.app">🚀 Ver Deploy</a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      </td>
   </tr>
 </table>
 
