@@ -43,7 +43,7 @@
         <strong>Tech Stack:</strong> Desarrollo Frontend, UI/UX.
       </p>
       <p align="center">
-        <a href="https://github.com/julietacasano/invitacionesbyju">🔎 Ver Código</a>
+        <a href="https://github.com/julietacasano/invitacionesbyju">🔒 Código Privado</a>
       </p>
     </td>
   </tr>
