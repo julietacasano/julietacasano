@@ -13,8 +13,7 @@
 <br>
 
 - 👩‍💻 Estudiante de Ingeniería en Sistemas en la UTN FRRe.
-- 💅 Enfocada en el desarrollo Frontend y en asegurar la calidad del software mediante Testing.
-- 🛡️ Apasionada por la Ciberseguridad y el análisis de vulnerabilidades.
+- 🛡️ Interesada en Ciberseguridad y el análisis de vulnerabilidades.
 - 📚 Becaria de investigación trabajando en la intersección de la Educación y la Inteligencia Artificial.
 
 <br>
